@@ -1,0 +1,118 @@
+    1  touch GIST-529
+    2  ls
+    3  vi GIST-529
+    4  cat GIST-529
+    5  touch Sample.html
+    6  vi Sample.html
+    7  vi Sample.html
+    8  cat Sample.html
+    9  git init
+   10  git clone 'https://github.com/172U1A0529/GIST-529.git'
+   11  ls
+   12  cd GIST-529/
+   13  ls
+   14  vi README.md
+   15  git config --global user.name '172U1A0529'
+   16  git config --global user.email 'menta.yathisha529@gmail.com'
+   17  git init
+   18  git status -s
+   19  touch exp.py
+   20  git status
+   21  git status -s
+   22  git add exp,py
+   23  git add .
+   24  git status -s
+   25  git commit -m 'Write markdown Statements'
+   26  git log 
+   27  git remote add origin 'https://github.com/172U1A0529/GIST-529.git'
+   28  git push origin main
+   29  vi exp.py
+   30  git commit -m 'Python Program'
+   31  git add.
+   32  git add .
+   33  git commit -m 'Python Program'
+   34  git remote add origin '
+   35  Delta compression using up to 4 threads
+   36  git add remote origin '
+   37  Delta compression using up to 4 threads
+   38  git remote add origin 'https://github.com/172U1A0529/GIST-529.git
+   39  git remote add origin 'https://github.com/172U1A0529/GIST-529.git'
+   40  git push origin main
+   41  git add .
+   42  git commit -m 'All Files'
+   43  git remote add origin 'https://github.com/172U1A0529/GIST-529.git'
+   44  git push original main
+   45  git add .
+   46  git clone 'https://github.com/172U1A0529/GIST-529.git'
+   47  git add .
+   48  cd GIST 529
+   49  git status -s
+   50  cd 529
+   51  git add .
+   52  git push origin main
+   53  git clone 'https://github.com/172U1A0529/GIST-529.git'
+   54  git add .
+   55  git status -s
+   56  git commit -m 'Workshop Analysis'
+   57  git push origin main
+   58  git clone 'https://github.com/vijaykumar10022/T-ShirtSize.git'
+   59  git commit -m 'Project Doing'
+   60  git add .
+   61  git remote add origin 'https://github.com/vijaykumar10022/T-ShirtSize.git'
+   62  git push origin master
+   63  git add .
+   64  git status -s
+   65  git remote add origin 'https://github.com/vijaykumar10022/T-ShirtSize.git'
+   66  pwd
+   67  ls
+   68  touch
+   69  touch demo.txt
+   70  ls
+   71  mkdir GIST
+   72  ls
+   73  cd GIST
+   74  pwd
+   75  cd ..
+   76  pwd
+   77  cd e:
+   78  pwd
+   79  cd d:
+   80  pwd
+   81  cd c:
+   82  cd C/Users/dell/Desktop/priya-410
+   83  cd Users/dell/Desktop/priya-410
+   84  pwd
+   85  echo "Hello"
+   86  echo 1..100
+   87  echo {1..100}
+   88   echo {1..1000}
+   89  touch file{1..100}.txt
+   90  touch python{20..50}.py
+   91  touch clanguage {50..70}.cpp
+   92  pwd
+   93  ls
+   94  rm *.txt
+   95  rm *.txt
+   96  ls
+   97  rm *.py
+   98  ls
+   99  nano myfile.txt
+  100  cat myfile.txt
+  101  nano myfile.txt
+  102  echo "Hello">>myfile2.txt
+  103  cat myfile2.txt
+  104  echo {1--100}>>myfile3.txt
+  105  cat myfile3.txt
+  106  echo {1--100} >> myfile3.txt
+  107  echo {1..100} >> myfile3.txt
+  108  cat myfile3.txt
+  109  mv myfile.txt myfile2.txt
+  110  mv myfile3.txt myfile2.txt
+  111  cat myfile2.txt
+  112  ls
+  113  cp  myfile2.txt
+  114  cat myfile.txt
+  115  cp myfile2.txt myfile.txt
+  116  cat myfile.txt
+  117  history
+  118  history >>history.txt
